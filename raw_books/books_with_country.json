@@ -1,0 +1,26 @@
+[
+    {
+        "book_title":"Online Marketing for Busy Authors: A Step-By-Step Guide",
+        "price":"£46.35",
+        "availability":16,
+        "link":"https:\/\/books.toscrape.com\/catalogue\/online-marketing-for-busy-authors-a-step-by-step-guide_913\/index.html",
+        "rating":1,
+        "publisher_country":"Slovakia"
+    },
+    {
+        "book_title":"How to Be Miserable: 40 Strategies You Already Use",
+        "price":"£46.03",
+        "availability":16,
+        "link":"https:\/\/books.toscrape.com\/catalogue\/how-to-be-miserable-40-strategies-you-already-use_897\/index.html",
+        "rating":1,
+        "publisher_country":"Australia"
+    },
+    {
+        "book_title":"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",
+        "price":"£52.15",
+        "availability":14,
+        "link":"https:\/\/books.toscrape.com\/catalogue\/overload-how-to-unplug-unwind-and-unleash-yourself-from-the-pressure-of-stress_725\/index.html",
+        "rating":3,
+        "publisher_country":"Costa Rica"
+    }
+]
