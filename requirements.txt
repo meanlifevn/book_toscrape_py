@@ -1,0 +1,8 @@
+beautifulsoup4
+tqdm
+selenium
+pandas
+requests
+fastapi
+uvicorn
+pydantic

@@ -1,0 +1,8 @@
+{
+  "book_title": "Test Book",
+  "price": "£12.99",
+  "availability": 16,
+  "link": "https://example.com",
+  "rating": 5,
+  "publisher_country": "Japan"
+}
