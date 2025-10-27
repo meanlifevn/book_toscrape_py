@@ -2,7 +2,7 @@ from fastapi import FastAPI, HTTPException, Query
 from pydantic import BaseModel
 import pandas as pd
 import os
-import uvicorn
+# import uvicorn
 
 DATA_FILE = "./raw_books/books_with_country.csv"
 app = FastAPI(title="Books API", version="1.0")
@@ -46,4 +46,5 @@ def delete_book(title: str):
 
 # if __name__ == '__main__':
 #     uvicorn.run(app='p3_books_api:app')
+
 
