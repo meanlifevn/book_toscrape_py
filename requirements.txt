@@ -4,5 +4,6 @@ selenium
 pandas
 requests
 fastapi
-uvicorn
-pydantic
+# uvicorn
+
+# pydantic
